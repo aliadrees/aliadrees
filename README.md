@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Adrees</h1>
+[<h1 align="center">Hi 👋, I'm Ali Adrees</h1>
 <h3 align="center">Learning. Building. Improving. One commit at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliadreestech&label=Profile%20views&color=0e75b6&style=flat" alt="aliadreestech" /> </p>
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliadreestech&show_icons=true&locale=en" alt="aliadreestech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliadreestech&" alt="aliadreestech" /></p>
+](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
