@@ -7,19 +7,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliadreestech" alt="aliadreestech" /></a> </p>
 
-- 🔭 I’m currently working on [Point of Sale (POS) Management System in C++](https://github.com/aliadreestech/Point-of-Sale-Management-System)
+* 🔭 I’m currently working on **Python Projects & Student Management System**
 
-- 🌱 I’m currently learning **Advanced C++ - Java - Data Structures & Algorithms - Git & GitHub - SQL**
+* 🌱 I’m currently learning **Python - Object-Oriented Programming (OOP) - Git & GitHub - JSON & CSV - NumPy & Pandas**
 
-- 👯 I’m looking to collaborate on **Open Source C++ Projects - Java Projects - Web Development Projects**
+* 👯 I’m looking to collaborate on **Python Projects - Open Source Projects - Web Development Projects - AI/ML Projects**
 
-- 🤝 I’m looking for help with **Software Architecture - Open Source Contributions - Backend Development**
+* 🤝 I’m looking for help with **Software Architecture - Backend Development - Open Source Contributions - AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aliadreestech](https://github.com/aliadreestech)
+* 👨‍💻 All of my projects are available at **[GitHub](https://github.com/aliadrees)**
 
-- 💬 Ask me about **C++ - Java - Object-Oriented Programming (OOP) - Data Structures - File Handling - Git & GitHub**
+* 💬 Ask me about **Python - C++ - Java - OOP - Data Structures & Algorithms - File Handling - JSON - SQL - Git & GitHub**
 
-- 📫 How to reach me **aliadrees4560@gmail.com**
+* 📫 How to reach me **[aliadrees4560@gmail.com](mailto:aliadrees4560@gmail.com)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
