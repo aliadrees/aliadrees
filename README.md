@@ -3,9 +3,9 @@
 <h3 align="center">Learning. Building. Improving. One commit at a time.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliadreestech&label=Profile%20views&color=0e75b6&style=flat" alt="aliadreestech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliadrees&label=Profile%20views&color=0e75b6&style=flat" alt="aliadrees" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliadreestech" alt="aliadreestech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliadrees" alt="aliadrees" /></a> </p>
 
 * 🔭 I’m currently working on **Python Projects & Student Management System**
 
